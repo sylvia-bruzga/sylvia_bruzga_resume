@@ -1,0 +1,39 @@
+- company: Center for Biomedical Informatics & Biostatistics
+  roles:
+    - role: Research Data Specialist II, Graduate Research Assistant
+      details: |
+        - Developed a Python program using Selenium automation to download and extract files across 6 servers
+        streamlining REDCap database updates while enforcing credential encryption and reducing manual processes. 
+        - Designed a MariaDB database and data pipelines to capture server/application statuses and built Power BI
+        dashboards for real-time monitoring.
+        - Created technical documentation for system processes, databases, and API integrations
+      date: 10.2024 -  Present
+
+- company: CBRE
+  page: 1
+  roles: 
+    - role: Accounting Intern
+      tools: SQL, Flink, Kafka
+      details: |
+        - Utilized accounting software to manage financial data and update ledgers to ensure accuracy and integrity of
+        transactional records.
+        - Prepared financial reporting packages by extracting, analyzing, and organizing data from property
+        management software to assist in month-end procedures
+      date: 05.2024 - 08.2024
+    
+    - role: #Junior Software Developer
+      tools: #HTML, PHP, CSS
+      date: #10.2018 - 06.2019
+      details: | 
+        
+
+- company: Company 1
+  page: 2
+  roles:
+    - role: Junior Software Developer
+      tools: C#, Python, Postgresql
+      details: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
+        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+      date: 2017 - 2018

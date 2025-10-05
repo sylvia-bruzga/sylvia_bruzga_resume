@@ -1,0 +1,31 @@
+projects:
+- title: "Fundamentals of Cloud Computing and its Design Strategies (In Progress)"
+  subtitle:
+  date: 
+  details: |
+    - Deploying and managing cloud infrastructure by containerizing applications, configuring networks across
+    VMs/servers, and implementing security controls
+    - Building a working prototype to serve an ML model using cloud resources and creating an architecture
+    diagram
+
+- title: "Data Mining and Machine Learning (In Progress)"
+  #subtitle: "mertbakir.gitlab.io/resume"
+  # link: "https://gitlab.com/mertbakir/resume-a4"
+  #date: "2020"
+  details: |
+    - Applying Python to implement supervised and unsupervised learning techniques, including regression (linear,
+    logistic, ridge, lasso), classification (SVMs, decision trees, k-NN), clustering, and text mining/NLP
+ # links:
+  #- title: "Available in GitLab"
+   # url: "https://gitlab.com/mertbakir/resume-a4"
+   # icon: "fab fa-gitlab"
+
+
+- title: "SQL Database Development – Management Information Systems"
+  #subtitle: "mertbakir.gitlab.io/resume"
+  # link: "https://gitlab.com/mertbakir/resume-a4"
+  #date: "2020"
+  details: |
+    - Designed and implemented a normalized SQL database with an ERD to support a rental car company
+    - Created database objects including tables, stored procedures, and functions, for reusable and efficient data
+      operations.
